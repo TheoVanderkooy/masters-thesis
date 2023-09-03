@@ -1,0 +1,12 @@
+[submodule "postgres"]
+	path = postgres
+	url = https://github.com/TheoVanderkooy/postgres-pbm.git
+[submodule "benchbase"]
+	path = benchbase
+	url = https://github.com/TheoVanderkooy/BenchBase-pbm.git
+[submodule "postgres-test-scripts"]
+	path = postgres-test-scripts
+	url = https://github.com/TheoVanderkooy/postgres-test-scripts.git
+[submodule "thesis-doc"]
+	path = thesis-doc
+	url = https://github.com/TheoVanderkooy/masters-thesis-doc.git
